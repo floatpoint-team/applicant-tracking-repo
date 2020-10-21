@@ -1,4 +1,4 @@
-_A Repository Template created by_ __[Floatpoint](https://floatpoint.co/)__
+_A Repository Template created by_ __[Floatpoint](https://www.floatpoint.co/)__
 
 # Application Tracking Repository
 
