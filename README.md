@@ -7,6 +7,18 @@ ___Organize and review job applicants so no one falls through the cracks.___
 ![Last Commit](https://img.shields.io/github/last-commit/floatpoint-team/applicant-tracking-repo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+## Table of Contents
+
+[__1. Guide to Crafting a Hiring Pipeline__](#guide-to-crafting-a-hiring-pipeline)
+
+[__2. Checklists__](#checklists)
+
+[__3. How to Use GitHub for Applicant Tracking__](#how-to-use-github-for-applicant-tracking)
+
+[__4. Blogs, Articles, and Advice__](#blogs-articles-and-advice)
+
+---
+
 ### What is this?
 
 This repository serves as a simple __Applicant Tracking System__ for small to medium companies.
@@ -32,13 +44,6 @@ Like any important project, iteration and incremental changes are necessary for 
 
 This "Applicant Tracking Repo" provides guides, checklists, and a basic set of features (well, GitHub's features actually) for hiring.
 Hopefully, this will be useful as you slowly develop a more mature hiring process for your company.
-
-## Table of Contents
-
-### [Guide to Crafting a Hiring Pipeline](#guide-to-crafting-a-hiring-pipeline)
-### [Checklists](#checklists)
-### [How to Use GitHub for Applicant Tracking](#how-to-use-github-for-applicant-tracking)
-### [Blogs, Articles, and Advice](#blogs-articles-and-advice)
 
 ---
 
