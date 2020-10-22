@@ -1,12 +1,17 @@
-_A Repository Template created by_ __[Floatpoint](https://www.floatpoint.co/)__
+> A Repository Template created by __[Floatpoint](https://www.floatpoint.co/)__
 
 # Application Tracking Repo
 
-> Organize and review job applicants so no one falls through the cracks.
+___Organize and review job applicants so no one falls through the cracks.___
+
+![Last Commit](https://img.shields.io/github/last-commit/floatpoint-team/applicant-tracking-repo)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ### What is this?
 
-This repository serves as a simple Applicant Tracking System for small to medium organizations.
+This repository serves as a simple __Applicant Tracking System__ for small to medium organizations.
+
+The files contain comprehensive __guides__ and __checklists__ that will help you develop a mature hiring process that's right for your organization.
 
 You can fork this GitHub repository and use Issues and Projects to organize your hiring pipeline.
 
@@ -33,12 +38,13 @@ If you're familiar with GitHub issues and projects, then these existing workflow
 
 | Hiring Concept | GitHub Equivalent |
 |-|-|
-| Job or Role to Hire For | New Project
-| Stages in a Pipeline | Project Columns
-| New Applicant | Open an Issue, and Add Card to Project
-| Discussions about an Applicant | Issue Threads
-| Interviewer | Issue Assignee
-| Filterable Details about Applicants | Issue Labels
+| Job Opening to Hire For | New Project |
+| Stages in a Pipeline | Project Columns |
+| New Applicant | Open New Issue |
+| Add Applicant to Job Opening | Add Issue Card to Project | 
+| Discussions about an Applicant | Issue Threads |
+| Interviewer | Issue Assignee |
+| Filterable Details about Applicants | Issue Labels |
 
 > __Note__
 >
