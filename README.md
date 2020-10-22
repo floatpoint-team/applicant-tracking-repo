@@ -70,9 +70,9 @@ If you're familiar with GitHub issues and projects, then these existing workflow
 | Hiring Concept | GitHub Equivalent |
 |-|-|
 | Job Opening to Hire For | New Project |
-| New Applicant | Open New Issue |
-| Add Applicant to Job Opening | Add Issue Card to Project |
-| Stages in a Pipeline | Project Columns |
+| New Applicant | New Issue |
+| Add Applicant to a Job Opening | Add Issue Card to a Project |
+| Stages in a Pipeline | Columns in a Project board |
 | Discussions about an Applicant | Issue Threads |
 | Interviewer | Issue Assignee |
 | Filterable Details about Applicants | Issue Labels |
