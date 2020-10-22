@@ -19,7 +19,7 @@ You can fork this GitHub repository and use Issues and Projects to organize your
 
 An __Applicant Tracking System__ (ATS) organizes the _state_ of each applicant in your hiring pipeline and the _transitions_ between different states.
 
-__TODO:__ Add image of a hiring pipeline from Excalidraw.
+![Hiring Pipeline](https://raw.githubusercontent.com/floatpoint-team/applicant-tracking-repo/main/images/hiring_pipeline.png)
 
 Common examples of ATS's that you might have heard of are [Greenhouse.io](https://www.greenhouse.io/), [Lever.co](https://www.lever.co/), and [SAP Recruiting](https://www.sap.com/products/recruiting-software.html).
 
