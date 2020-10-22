@@ -39,9 +39,9 @@ If you're familiar with GitHub issues and projects, then these existing workflow
 | Hiring Concept | GitHub Equivalent |
 |-|-|
 | Job Opening to Hire For | New Project |
-| Stages in a Pipeline | Project Columns |
 | New Applicant | Open New Issue |
-| Add Applicant to Job Opening | Add Issue Card to Project | 
+| Add Applicant to Job Opening | Add Issue Card to Project |
+| Stages in a Pipeline | Project Columns |
 | Discussions about an Applicant | Issue Threads |
 | Interviewer | Issue Assignee |
 | Filterable Details about Applicants | Issue Labels |
