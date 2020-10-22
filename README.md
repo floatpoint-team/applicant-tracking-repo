@@ -35,11 +35,14 @@ Hopefully, this will be useful as you slowly develop a more mature hiring proces
 
 ## Table of Contents
 
-### [Guides]()
-### [Checklists]()
-### [How to Use GitHub for Applicant Tracking]()
+### [Guide to Crafting a Hiring Pipeline](#guide-to-crafting-a-hiring-pipeline)
+### [Checklists](#checklists)
+### [How to Use GitHub for Applicant Tracking](#how-to-use-github-for-applicant-tracking)
+### [Blogs, Articles, and Advice](#blogs-articles-and-advice)
 
-## Guides: Crafting your Hiring Process
+---
+
+## Guide to Crafting a Hiring Pipeline
 
 | Name | Description |
 |-|-|
@@ -75,3 +78,7 @@ If you're familiar with GitHub issues and projects, then these existing workflow
 > After all, GitHub isn't really meant for this use case.
 >
 > Nonetheless, these analogies can be useful as you design a hiring process that works for you.
+
+## Blogs, Articles, and Advice
+
+__[TODO]__
