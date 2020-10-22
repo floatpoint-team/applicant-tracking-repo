@@ -20,10 +20,16 @@ Common examples of ATS's that you might have heard of are [Greenhouse.io](https:
 
 ### Why would I use this "Applicant Tracking Repo"?
 
-Hiring is literally the process of choosing who you are going to work with.
-Threads of discussion about applicants will guide your decision making process.
+Each organization grow differently.
+There is no cookie-cutter method for evaluating who you will end up working with on a daily basis.
+Like any important project, iteration and incremental changes are necessary for success.
 
-If you're familiar with GitHub issues and projects, the existing workflows are actually quite nice as an ATS:
+This "Applicant Tracking Repo" provides guides, checklists, and a basic set of features (well, GitHub's features actually) for hiring.
+Hopefully, this will be useful as you slowly develop a more mature hiring process for your organization.
+
+## How It Works
+
+If you're familiar with GitHub issues and projects, then these existing workflows are actually quite nice for tracking applicants:
 
 | Hiring Concept | GitHub Equivalent |
 |-|-|
@@ -34,6 +40,10 @@ If you're familiar with GitHub issues and projects, the existing workflows are a
 | Interviewer | Issue Assignee
 | Filterable Details about Applicants | Issue Labels
 
+> __Note__
+>
+> These concepts are not exact 1:1 mappings.
+> However, they provide a useful foundation for understanding the needs of your hiring process.
 
 ## Stages of Hiring
 
