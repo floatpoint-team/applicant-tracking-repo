@@ -9,9 +9,9 @@ ___Organize and review job applicants so no one falls through the cracks.___
 
 ### What is this?
 
-This repository serves as a simple __Applicant Tracking System__ for small to medium organizations.
+This repository serves as a simple __Applicant Tracking System__ for small to medium companies.
 
-The files contain comprehensive __guides__ and __checklists__ that will help you develop a mature hiring process that's right for your organization.
+The files contain comprehensive __guides__ and __checklists__ that will help you develop a mature hiring process that's right for your company.
 
 You can fork this GitHub repository and use Issues and Projects to organize your hiring pipeline.
 
@@ -25,15 +25,37 @@ Common examples of ATS's that you might have heard of are [Greenhouse.io](https:
 
 ### Why would I use this "Applicant Tracking Repo"?
 
-Each organization grow differently.
+Each company grows differently.
 There is no cookie-cutter method for evaluating who you will end up working with on a daily basis.
 
 Like any important project, iteration and incremental changes are necessary for success.
 
 This "Applicant Tracking Repo" provides guides, checklists, and a basic set of features (well, GitHub's features actually) for hiring.
-Hopefully, this will be useful as you slowly develop a more mature hiring process for your organization.
+Hopefully, this will be useful as you slowly develop a more mature hiring process for your company.
 
-## How It Works
+## Table of Contents
+
+### [Guides]()
+### [Checklists]()
+### [How to Use GitHub for Applicant Tracking]()
+
+## Guides: Crafting your Hiring Process
+
+| Name | Description |
+|-|-|
+| 😇 _Assigning an "Owner"_ | Designate an "applicant owner" who supervises the applicant through the hiring process. [Read more.](https://github.com/floatpoint-team/applicant-tracking-repo/blob/main/1_assigning-an-owner.md) | 
+| 📝 _Pre-Screening_ | (optional) Briefly evaluate the applicant's resume or CV with a rubric. |
+| 💬 _Scheduling an Interview_ | Request time from staff to help interview and review applicants. |
+| 🧐 _Post-Interview_ | Follow-up on staff to aggregate interview notes and decide on next steps. |
+| 💼 _Extending an Offer_ | Define where and how the applicant will fit in your team. |
+| ✅ _Closing_ | Encourage your applicant to choose your offer over others. |
+
+## Checklists
+
+- [ ] Step 1
+- [ ] Step 2
+
+## How to Use GitHub for Applicant Tracking
 
 If you're familiar with GitHub issues and projects, then these existing workflows are actually quite nice for tracking applicants:
 
@@ -47,18 +69,9 @@ If you're familiar with GitHub issues and projects, then these existing workflow
 | Interviewer | Issue Assignee |
 | Filterable Details about Applicants | Issue Labels |
 
-> __Note__
+> __[Note]__
 >
 > These concepts are not exact 1:1 mappings.
-> However, they provide a useful foundation for understanding the needs of your hiring process.
-
-## Stages of Hiring
-
-| Name | Description |
-|-|-|
-| 😇 _Assigning an "Owner"_ | Designate an "applicant owner" who supervises the applicant through the hiring process. [Read more.](https://github.com/floatpoint-team/applicant-tracking-repo/blob/main/1_assigning-an-owner.md) | 
-| 📝 _Pre-Screening_ | (optional) Briefly evaluate the applicant's resume or CV with a rubric. |
-| 💬 _Scheduling an Interview_ | Request time from staff to help interview and review applicants. |
-| 🧐 _Post-Interview_ | Follow-up on staff to aggregate interview notes and decide on next steps. |
-| 💼 _Extending an Offer_ | Define where and how the applicant will fit in your team. |
-| ✅ _Closing_ | Encourage your applicant to choose your offer over others. |
+> After all, GitHub isn't really meant for this use case.
+>
+> Nonetheless, these analogies can be useful as you design a hiring process that works for you.
